@@ -1,5 +1,5 @@
 // Day 1 - Variables, Functions, Conditions
-// Author: Amina ALi
+// Author: https://github.com/AMINAALI07
 
 void checkIfEven(int num) {
   if (num % 2 == 0) {
